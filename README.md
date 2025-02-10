@@ -1,3 +1,5 @@
+_note: API is now available_
+
 # Predicting Customer Loyalty (98.96%) TensorFlow
 
 __Problem Statement:__<br>
