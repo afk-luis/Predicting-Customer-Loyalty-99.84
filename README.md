@@ -1,4 +1,6 @@
-# Predicting Customer Loyalty (99.84%) TensorFlow
+_note: API is now available_
+
+# Predicting Customer Loyalty (98.96%) TensorFlow
 
 __Problem Statement:__<br>
 Predict the customer's loyalty score in order to determine if the customer is likely to organically build loyalty with the brand.
